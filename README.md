@@ -3,7 +3,7 @@
 <h1 aling="left"> Bem vindo ao meu <b>GITHUB</b> 🔱 <h/1>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 
 </br>
 </br>
