@@ -4,3 +4,20 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+
+</br>
+</br>
+
+Tenho 15 anos, moro em São José CITY / PR, Sou aluno da disciplina de penamento computacional.
+
+</br>
+</br>
+
+### TECNOLOGIAS E FERRAMENTAS:
+<code>
+
+<code>
+</code>
+
+<code>
+</code>
